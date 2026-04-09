@@ -6,12 +6,12 @@
 // ================================================================
 
 // ==================== Board Identity ====================
-#define BOARD_ID      "ESP32-FARM-001-NATTAPHOL-PALM"   // ต้องตรงกับ boardId ที่ register ใน backend
+#define BOARD_ID      "ESP32-FARM-001-TK"   // ต้องตรงกับ boardId ที่ register ใน backend
 #define FIRMWARE_VER  "1.0.0"
 
 // ==================== WiFi ====================
-#define WIFI_SSID       "MyHome_2.4G"  // เปลี่ยนเป็น SSID ของ WiFi ที่จะเชื่อมต่อ
-#define WIFI_PASSWORD   "0939391546"
+#define WIFI_SSID       "Thailock2.4G"  // เปลี่ยนเป็น SSID ของ WiFi ที่จะเชื่อมต่อ
+#define WIFI_PASSWORD   "T1234L4321TL"
 #define WIFI_TIMEOUT_MS 15000
 
 // ==================== MQTT Broker ====================
